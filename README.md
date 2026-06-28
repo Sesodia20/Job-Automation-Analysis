@@ -1,4 +1,4 @@
-# Job-Automation-Analysis in the US Labour Market
+# Job Automation Risk Analysis in the US Labour Market
 Analysing US job automation risk and employment by combining Frey & Osborne automation scores with BLS projections, using clustering, regression, and ensemble methods.
 
 ## Overview
